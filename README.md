@@ -9,7 +9,7 @@
 - 🔭 I'm working on nothing right now. XD
 - 🌱 Learning Python3, Java.
 - 📫 How to reach me: 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/skybird350)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Luckyakalucka)
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Noob.
 
